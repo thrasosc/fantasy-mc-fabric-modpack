@@ -1,0 +1,34 @@
+name: "Bug report"
+description: "Create a bug report to help us improve Fantasy Minecraft"
+labels: [ "bug" ]
+body:
+    -   type: textarea
+        attributes:
+            label: "Describe the Bug"
+            description: "A clear and concise description of what the bug is."
+        validations:
+            required: true
+    -   type: textarea
+        attributes:
+            label: "Reproduction Steps"
+            description: "Steps to reproduce the behavior:"
+        validations:
+            required: false
+    -   type: textarea
+        attributes:
+            label: "Screenshots"
+            description: "If applicable, add screenshots or videos to help explain your problem."
+        validations:
+            required: false
+    -   type: textarea
+        attributes:
+            label: "Crash-logs"
+            description: "If applicable, provide a crash-log."
+        validations:
+            required: false
+    -   type: input
+        attributes:
+            label: "Modpack Version"
+            description: "The Modpack Version you where using. (e.g. v1.5.0)"
+        validations:
+            required: true
