@@ -12,4 +12,4 @@ See all available features in the [Mods List](https://github.com/pixeldreamstudi
 
 <a href="https://discord.com/invite/rexDZqAJc3"><img src="https://www.bisecthosting.com/images/CF/Fantasy_MinecraftV2/BH_FM_JoinOurDiscord.webp"></a>
 
-<a href="https://bisecthosting.com/PixelDream"><img src="https://www.bisecthosting.com/images/CF/Fantasy_MinecraftV2/BH_FM_Promo.webp"></a>
+<a href="https://bisecthosting.com/PixelDream"><img src="https://i.postimg.cc/xjkqm9CK/BH-NU-PROMO.png"></a>
