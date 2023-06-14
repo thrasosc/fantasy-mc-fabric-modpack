@@ -29,6 +29,6 @@ body:
     -   type: input
         attributes:
             label: "Mod pack version"
-            description: "The Modpack Version you where using. (e.g. v12.6)"
+            description: "The mod pack version you where using (e.g. v12.6)."
         validations:
             required: true
