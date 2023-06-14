@@ -22,7 +22,7 @@ body:
             required: false
     -   type: textarea
         attributes:
-            label: "Crash-logs"
+            label: "Logs & crash-reports"
             description: "If applicable, provide a crash-report or the latest log."
         validations:
             required: false
